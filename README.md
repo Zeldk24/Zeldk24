@@ -40,8 +40,7 @@
   <br>
   <br>
 
-  [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=1ddf93)](https://www.instagram.com/_zeldk/)
-  [![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=LinkedIn&color=blue
-)](https://www.linkedin.com/in/thyago-vinicius-49208332a/)
+  [![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=Linktree&color=%2322b47b)]()
+  [![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=LinkedIn&color=blue)](https://www.linkedin.com/in/thyago-vinicius-49208332a/)
   
 </div>
