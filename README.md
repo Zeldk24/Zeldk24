@@ -42,5 +42,7 @@
 
   [![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=Linktree&color=%2322b47b)]()
   [![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=LinkedIn&color=blue)](https://www.linkedin.com/in/thyago-vinicius-49208332a/)
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
 </div>
