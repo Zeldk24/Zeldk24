@@ -1,4 +1,4 @@
-<br>
+<img width="261" height="160" alt="image" src="https://github.com/user-attachments/assets/e6a7fab2-d869-4b11-9962-149151d344f6" /><br>
 <br>
 <br>
 
@@ -44,7 +44,7 @@
   <br>
   <br>
 
-  [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_zeldk/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/thyago-vinicius-49208332a/)
+  [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=1ddf93)](https://www.instagram.com/_zeldk/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=1ddf93)](https://www.linkedin.com/in/thyago-vinicius-49208332a/)
   
 </div>
