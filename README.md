@@ -21,7 +21,7 @@
 
 <div align="center">
   <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zeldk24&theme=blueberry"
+     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zeldk24&theme=blueberry&utcOffset=8"
   />
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zeldk24&theme=blueberry"
@@ -30,7 +30,7 @@
         src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zeldk24&theme=blueberry"
         />
     <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zeldk24&theme=blueberry&utcOffset=8"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zeldk24&theme=blueberry"
         />
 </div>
 
