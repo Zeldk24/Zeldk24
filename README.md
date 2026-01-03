@@ -24,12 +24,13 @@
 
 <br/>
 
-<div align="center">
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zeldk24&theme=blueberry"
-    width="900"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zeldk24&theme=blueberry" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <samp>
