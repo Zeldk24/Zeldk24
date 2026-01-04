@@ -39,6 +39,7 @@
     </b>
   </samp>
   <br>
+
   <br>
 
   [![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=Linktree&color=%2322b47b)]()
@@ -47,3 +48,6 @@
   [![My Skills](https://skillicons.dev/icons?i=cs,blender,github,unity,unreal)](https://skillicons.dev)
   
 </div>
+
+
+![Snake Animation](https://github.com/rafaballerini2/rafaballerini2/issues/1)
