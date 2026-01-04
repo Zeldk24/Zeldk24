@@ -50,4 +50,4 @@
 </div>
 
 
-![Snake Animation](https://github.com/rafaballerini2/Zeldk24/issues/1)
+![Snake Animation](https://github.com/rafaballerini2/rafaballerini2/issues/1)
